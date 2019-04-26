@@ -1,0 +1,41 @@
+.footer{
+   height:400px;
+   display: flex;
+}
+
+.left,.midleft, .midright, .right{
+   position: relative;
+   top:5%;
+   padding-left:100px;
+   max-width:250px;
+}
+.sectionleft p{
+   font-size:25px;
+   font-weight: bold;
+   color:white;
+   text-align: center; 
+}
+
+.footer h2{
+   color:black;
+   text-shadow:
+   -2px -2px 0 white,  
+   2px -2px 0 white,
+    -2px 2px 0 white,
+     2px 2px 0 white;
+}
+a{
+   text-decoration: underline;
+   font-size:25px;
+   font-weight: bold;
+   color:white;
+   display:inline-block;
+   padding-top:30px;
+}
+.contact li{
+   font-size:25px;
+   font-weight: bold;
+   color:white;
+   text-align: center;
+   display:inline-block;
+}

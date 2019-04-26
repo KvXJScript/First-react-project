@@ -1,0 +1,30 @@
+input{
+   margin:10px;
+   padding:5px 10px;
+   font-size:25px;
+   font-family: Arial, Helvetica, sans-serif;
+   border: 3px solid black;
+   border-radius: 10px;
+   margin-left:50px;
+   margin-bottom: 50px;
+}
+
+.addtask {
+   font-size:30px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   text-shadow:
+   -2.5px -2.5px 0 black,  
+   2.5px -2.5px 0 black,
+    -2.5px 2.5px 0 black,
+     2.5px 2.5px 0 black;
+     text-transform: uppercase;
+}
+
+.addtask button{
+   margin-right:100px;
+}
+
+.priority {
+   color:red;
+}

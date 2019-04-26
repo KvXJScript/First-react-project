@@ -1,0 +1,14 @@
+.aboutme{
+   padding:0px 200px 0px 200px;
+   font-size:22px;
+}
+
+.aboutme h2{
+   text-align: center;
+   font-size:40px;
+   text-shadow:
+   -3px -3px 0 black,  
+   3px -3px 0 black,
+    -3px 3px 0 black,
+     3px 3px 0 black;
+}

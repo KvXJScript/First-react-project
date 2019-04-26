@@ -1,0 +1,36 @@
+.api{
+ text-align: center;
+ font-size:50px;
+ font-weight: bold;
+ font-family: Arial;
+ text-shadow:
+   -1.5px -1.5px 0 black,  
+   1.5px -1.5px 0 black,
+    -1.5px 1.5px 0 black,
+     1.5px 1.5px 0 black;
+}
+
+.api button{
+   font-size:35px;
+   text-transform: uppercase;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+   background-image: url("../images/buttonbackground.png")
+}
+
+.api h2{
+   text-transform: uppercase;
+}
+.result p{
+   font-size:25px;
+}
+
+
+.typein{
+   font-size:75px;
+   text-shadow:
+   -3px -3px 0 black,  
+   3px -3px 0 black,
+    -3px 3px 0 black,
+     3px 3px 0 black;
+}
