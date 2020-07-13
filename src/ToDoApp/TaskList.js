@@ -33,8 +33,8 @@ const TaskList = (props) => {
    
    <div className="done">
       <h1>Tasks done <em>({done.length})</em>:</h1>
-      {doneTasks.length>5 ? <h2>the last 5 Tasks are displayed</h2> : ""}
-      {doneTasks.length> 0 ? doneTasks.slice(0,5) : <h1>COME ON KEEP WORKING!!!</h1>}
+      {doneTasks.length>7 ? <h2>the last 7 Tasks are displayed</h2> : ""}
+      {doneTasks.length> 0 ? doneTasks.slice(0,5) : <h1>Keep going</h1>}
    </div>
    </>);
 }

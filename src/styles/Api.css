@@ -18,11 +18,14 @@
    background-image: url("../images/buttonbackground.png")
 }
 
-.api h2{
+.api span{
    text-transform: uppercase;
+   display:block;
+   margin: 1rem;
+   font-size: 20px;
 }
 .result p{
-   font-size:25px;
+   font-size:35px;
 }
 
 

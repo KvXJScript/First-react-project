@@ -23,7 +23,7 @@ class App extends Component {
             {<Nav/>}
             </aside>
             <section className="page">
-            {<Main/>}
+            {<Main/>}d
             </section>
           </main>
           <footer>

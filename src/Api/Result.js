@@ -12,13 +12,13 @@ const Result = props => {
       const temperature = Math.floor(temp -273.15);
       content = (
          <div className="result">
-            <p>Data for... <h2>{city}...</h2></p>
-            <p>Date of day and hour: <h2>{date}</h2></p>
-            <p>Sunise: <h2>{sunriseTime}</h2></p>
-            <p>Sunset: <h2>{sunsetTime}</h2></p>
-            <p>Temperature: <h2>{temperature}&#176;C</h2></p>
-            <p>Pressure: <h2>{pressure}hPa</h2></p>
-            <p>Speed of wind: <h2>{wind} M/s</h2></p>
+            <p>Data for... <span>{city}...</span></p>
+            <p>Date of day and hour: <span>{date}</span></p>
+            <p>Sunise: <span>{sunriseTime}</span></p>
+            <p>Sunset: <span>{sunsetTime}</span></p>
+            <p>Temperature: <span>{temperature}&#176;C</span></p>
+            <p>Pressure: <span>{pressure}hPa</span></p>
+            <p>Speed of wind: <span>{wind} M/s</span></p>
          </div>
       )
 

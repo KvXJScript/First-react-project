@@ -18,14 +18,9 @@
 
 .footer h2{
    color:black;
-   text-shadow:
-   -2px -2px 0 white,  
-   2px -2px 0 white,
-    -2px 2px 0 white,
-     2px 2px 0 white;
 }
 a{
-   text-decoration: underline;
+   text-decoration: none;
    font-size:25px;
    font-weight: bold;
    color:white;

@@ -7,6 +7,7 @@ input{
    border-radius: 10px;
    margin-left:50px;
    margin-bottom: 50px;
+   outline: none;
 }
 
 .addtask {
@@ -23,6 +24,7 @@ input{
 
 .addtask button{
    margin-right:100px;
+   outline: none;
 }
 
 .priority {

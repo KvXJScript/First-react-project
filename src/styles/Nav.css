@@ -16,7 +16,7 @@ nav.main{
   }
   
   nav.main a:hover{
-   transform: translateX(10px);
+   transform: translateX(.5rem);
    text-shadow:
    -2px -2px 0 black,  
    2px -2px 0 black,
