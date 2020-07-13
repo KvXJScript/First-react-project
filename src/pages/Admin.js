@@ -6,9 +6,9 @@ const Admin = () => {
    <div className="admin">
    <form>
       <p>Login:</p>
-      <input type="text" placeholder="podaj login"></input>
+      <input type="text" placeholder="Login..."></input>
       <p>Password:</p>
-      <input type="password"></input>
+      <input type="password" placeholder="Password..."></input>
    </form>
    <button>Submit</button>
    </div> );
