@@ -11,7 +11,7 @@ const Admin = () => {
       <input type="password" placeholder="Password..."></input>
    </form>
    <button>Submit</button>
-   </div> );
+   </div> )
 }
  
 export default Admin;
