@@ -15,7 +15,7 @@ const Main = () => {
          <Route path="/First-react-project/ToDoApp" component= {ToDoApp}/>
          <Route path="/First-react-project/AboutMe" component = {AboutMe}/>
          <Route path="/First-react-project/Api" component = {Api}/>
-         <Route path="/First-react-project/Admin" component = {Admin}/>
+         <Route path="/First-react-project/Admin" component = {Admin}/> 
          <Route path="/First-react-project/login" component = {Login}/>
       </Switch>
       </>
