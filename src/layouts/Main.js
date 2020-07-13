@@ -10,12 +10,12 @@ import Login from "../pages/Login";
 const Main = () => {
    return (
       <>
-      <Route path="/" component = {Home} exact/>
-      <Route path="/ToDoApp" component= {ToDoApp}/>
-      <Route path="/AboutMe" component = {AboutMe}/>
-      <Route path="/Api" component = {Api}/>
-      <Route path="/Admin" component = {Admin}/>
-      <Route path="/login" component = {Login}/>
+      <Route path="First-react-project/" component = {Home} exact/>
+      <Route path="First-react-project/ToDoApp" component= {ToDoApp}/>
+      <Route path="First-react-project/AboutMe" component = {AboutMe}/>
+      <Route path="First-react-project/Api" component = {Api}/>
+      <Route path="First-react-project/Admin" component = {Admin}/>
+      <Route path="First-react-project/login" component = {Login}/>
       </>
    );
 }
